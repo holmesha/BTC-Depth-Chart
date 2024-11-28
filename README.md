@@ -14,7 +14,7 @@ A real-time **cryptocurrency depth chart** display for the Raspberry Pi Zero 2 W
 - **Raspberry Pi Zero 2 W**
 - **3.5-inch TFT Touchscreen** (with ST7796 driver) - I used [the 3.5" screen from Aliexpress](https://www.aliexpress.us/item/3256805988905985.html?spm=a2g0o.order_list.order_list_main.40.14a91802hqBs01&gatewayAdapt=glo2usa).
 - Power supply and connectivity setup for the Pi
-- Optional 3D Printed Case [HERE](https://www.printables.com/model/677296-pi-zerozero2-35-inch-touch-screen-display-case/files)
+- Optional 3D Printed Case (work in progress - case needs to be modified to fit the particular screen I used) [HERE](https://www.printables.com/model/677296-pi-zerozero2-35-inch-touch-screen-display-case/files)
 
 ---
 
