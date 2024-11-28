@@ -29,27 +29,32 @@ A real-time **cryptocurrency depth chart** display for the Raspberry Pi Zero 2 W
 Install dependencies:
 ```bash
 pip install pillow websocket-client RPi.GPIO spidev
+```
 
 ## How to Run
 - Clone this repository
 ```bash
 git clone https://github.com/username/rpi-depth-chart.git
 cd rpi-depth-chart
+```
 
 - Run this script
 ```bash
 python3 real_time_depth_chart.py
+```
 
 ## Optional - Make the File Executable
 - Run the following command to give the script execution permissions:
 ```bash
 chmod +x /path/to/real_time_depth_chart.py
+```
 
 - Edit the crontab file - select your editor of choice
 ```bash
 crontab -e
+```
 
 - If you want this file to run at reboot automatically
 ```bash
 @reboot /path/to/your_script.sh
-
+```
